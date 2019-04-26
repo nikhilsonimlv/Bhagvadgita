@@ -1,16 +1,8 @@
-# bhagavadgita
+#  Flutter Animated UI :- 
 
-A new Flutter application for bhagvadgita.
+This repository contains an animated UI which is implemented using **[FLUTTER](https://flutter.io/)** and 
+below I am attaching the output which you will get once you run this repo.
+If you like the animation your star ⭐️⭐️⭐️⭐️⭐️ to repo will definitely motivate me 👦🏻😃.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Output📱
+<img src="assets/images/bgdemo2.png" width="200" height="400" />   <img src="assets/images/bgdemo.gif" width="200" height="400" />
